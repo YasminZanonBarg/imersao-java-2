@@ -3,7 +3,7 @@ Este repositório conterá o código das aulas da 2º edição da Imersão Java 
 
 <br>
 
-## ✅ Aula 1
+## ✅ Aula 1 (aula-1)
 Foi criado uma aplicação do zero para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação.
 
 ## ✅ Aula 2
