@@ -11,3 +11,6 @@ Desenvolvido um gerador de figurinhas explorando outras bibliotecas nativas do J
 
 ## ✅ [Aula 3](aula-3)
 Nesta aula foi melhorado o nosso código com as refatorações necessárias para torná-lo mais flexível e fácil de entender.
+
+## ✅ [Aula 4](aula-4)
+Foi construido uma API REST para expor nosso próprio conteúdo, utilizando ferramentas profissionais como o Spring Framework e o MongoDB como banco de dados NoSQL
